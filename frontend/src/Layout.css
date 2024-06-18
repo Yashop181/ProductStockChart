@@ -1,0 +1,10 @@
+.disaa
+{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+.disaa a
+{
+    text-decoration: none;
+}
